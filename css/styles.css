@@ -1,0 +1,64 @@
+
+/*	****************************************
+	Base styles
+**************************************** */
+#first{
+	background-image: url("../images/background1.jpg");
+	background-size: 100% 100%;
+	position: relative;
+}
+
+#second{
+	background-image: url("../images/background2.jpg");
+	background-size: 100% 100%;
+	position: relative;
+}
+
+#third{
+	background-image: url("../images/background3.jpg");
+	background-size: 100% 100%;
+	position: relative;
+}
+
+/*	****************************************
+	Layout styles
+**************************************** */
+
+.bottomText {
+	position: absolute;
+	bottom: 200px;
+	left: 50px;
+
+	background-color: rgba(0,0,0, 0.5);
+}
+
+
+
+/*	****************************************
+	Module styles
+**************************************** */
+
+.button {
+	border: 5px solid BLACK;
+	background-color: BLACK;
+	color: WHITE;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.button:hover {
+	background-color: WHITE;
+	color: BLACK;
+}
+
+.jumboHeader {
+	
+}
+
+/*	****************************************
+	State styles
+**************************************** */
+
+/*	****************************************
+	Theme styles
+**************************************** */
