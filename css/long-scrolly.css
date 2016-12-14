@@ -45,6 +45,20 @@ html, body {
 }
 .main-menu a:hover { color: #026185; }
 
+@media(max-width: 950px){
+	.main-menu{
+		position: relative;
+	}
+
+	.main-menu ul{
+		display: inline;
+	}
+
+	.main-menu ul .logo{
+		position: relative;
+	}
+}
+
 /*	****************************************
 	Long-scrolly sections
 	**************************************** */
