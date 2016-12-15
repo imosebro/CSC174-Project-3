@@ -2,6 +2,10 @@
 /*	****************************************
 	Base styles
 **************************************** */
+body {
+	background-color: BLACK;
+}
+
 #first{
 	background-image: url("../images/background1.jpg");
 	background-size: 100% 100%;
@@ -20,22 +24,7 @@
 	position: relative;
 }
 
-@media(max-width: 950px){
-	#first{
-		background-image: url("../images/");
-		background-color: WHITE;
-	}
 
-	#second{
-		background-image: url("../images/");
-		background-color: GREY;
-	}
-
-	#third{
-		background-image: url("../images/");
-		background-color: WHITE;
-	}
-}
 
 /*	****************************************
 	Layout styles
@@ -57,21 +46,8 @@
 	margin-left: 450px;
 }
 
-@media(max-width: 950px){
-	
-	.bottomText{
-		display: inline;
-		position: relative;
-		bottom: 0px;
-		left: 0px;
-
-	}
-
-	.itemRight {
-		margin-left: 0px;
-		padding-top: 500px;
-	}
-
+.sideBySide {
+	display: flex;
 }
 
 /*	****************************************
@@ -91,6 +67,10 @@
 	color: BLACK;
 }
 
+.fSection .button{
+	margin-left: 100px;
+}
+
 .jumboHeader {
 	font-size: 45px;
 	color: WHITE;
@@ -98,9 +78,60 @@
 
 }
 
+.centerThis {
+	text-align: center;
+}
+
+.container {
+	background-color: GREY;
+}
+
+.portDesc {
+	width: 30%;
+}
+
+.portImg {
+	width: 70%
+}
+
 /*	****************************************
 	State styles
 **************************************** */
+@media(max-width: 950px){
+	#first{
+		background-image: url("../images/");
+		background-color: WHITE;
+	}
+
+	#second{
+		background-image: url("../images/");
+		background-color: GREY;
+	}
+
+	#third{
+		background-image: url("../images/");
+		background-color: WHITE;
+	}
+}
+
+
+@media(max-width: 950px){
+	
+	.bottomText{
+		display: inline;
+		position: relative;
+		bottom: 0px;
+		left: 0px;
+
+	}
+
+	.itemRight {
+		margin-left: 0px;
+		margin-top: 500px;
+	}
+
+}
+
 
 /*	****************************************
 	Theme styles
@@ -108,4 +139,13 @@
 
 p {
 	font-size: 20px;
+	color: WHITE;
+}
+
+a {
+	color: WHITE;
+}
+
+h1 {
+	color: WHITE;
 }

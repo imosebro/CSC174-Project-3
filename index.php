@@ -14,7 +14,7 @@
             <p>Isaac Mosebrook Websites are the finest
                 pieces of web work available today</p>
 
-            <a class="button itemRight" href="">Get Yours Now</a>
+            <a class="button itemRight" href="contact.php">Get Yours Now</a>
 
         </div>
 
@@ -29,7 +29,7 @@
             <p>Sleek and Modern designs with
                 user friendly Interfaces</p>
 
-            <a class="button itemRight" href="">See Examples Now</a>
+            <a class="button itemRight" href="portfolio.php">See Examples Now</a>
         </div>
 
     </section>
@@ -43,7 +43,7 @@
             <p>From building a custom wordpress site
                 to fixing up your outdated work</p>
 
-            <a class="button itemRight" href="">See Examples Now</a>
+            <a class="button itemRight" href="portfolio.php">See Examples Now</a>
         </div>
 
     </section>
