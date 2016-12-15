@@ -147,11 +147,11 @@
               in advertising intense milk. It uses custom css and google
               fonts to create a pleasing experience.</p>
 
-            <a class="button" href="http://www.urcsc170.org/imosebro/lab9/">Visit Now</a>
+            <a class="button" href="http://urcsc170.org/imosebro/lab09/">Visit Now</a>
 
           </div>
 
-         <img class="portImg" src="images/site1.png" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
+         <img class="portImg" src="images/site1.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
 
         </div>
       </div>
@@ -170,7 +170,7 @@
 
           </div>
 
-         <img class="portImg" src="images/site2.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
+         <img class="portImg" src="images/site3.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
 
         </div>
       </div>
@@ -189,7 +189,7 @@
 
           </div>
 
-         <img class="portImg" src="images/site3.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
+         <img class="portImg" src="images/site2.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
 
         </div>
       </div>
